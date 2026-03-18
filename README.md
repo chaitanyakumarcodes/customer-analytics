@@ -73,7 +73,9 @@ The dashboard highlights:
 
 * ~3.9K customers
 * Average purchase ≈ $59.76
-* Average rating ≈ 3.75 
+* Average rating ≈ 3.75
+
+<img width="963" height="521" alt="image" src="https://github.com/user-attachments/assets/c6e870e7-ed88-4d12-9fb0-2b99d6c7dcf3" />
 
 ---
 
